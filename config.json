@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "message": "",
+  "features": [
+    { "id": "com.jycos.sudokubreeze.pack.variety", "enabled": true, "notice": "" }
+  ]
+}
